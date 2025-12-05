@@ -1,0 +1,13 @@
+yfinance
+newsapi-python
+requests
+python-dotenv
+pandas
+numpy
+textblob
+vaderSentiment
+streamlit
+plotly
+matplotlib
+seaborn
+scikit-learn
